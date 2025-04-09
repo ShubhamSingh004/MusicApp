@@ -51,4 +51,7 @@ dependencies {
 
     //gson convertor
     implementation(libs.converter.gson)
+
+    // picasso for images
+    implementation(libs.picasso)
 }
